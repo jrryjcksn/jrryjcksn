@@ -32,8 +32,8 @@ github: [metadata]
 excerpt_separator: ""
 
 lsi: false
-safe: true
-source: "/"
+# safe: true
+# source: "/"
 incremental: false
 highlighter: rouge
 gist:
